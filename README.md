@@ -1,6 +1,6 @@
 # Artifacts R Us
 
-This is an extremely simple server for software artifacts (that is, compiled releases of software).
+This is an extremely simple server for software artifacts (that is, compiled releases of software). It's probably less secure and less featureful than [JFrog Artifactory](https://jfrog.com/artifactory/), but it's more fun (also I couldn't figure out how to set up jfrog)!
 
 ## Storage
 
